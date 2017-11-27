@@ -22,16 +22,19 @@
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:text="Count"
+          android:onClick="Count"
           />
       <Button
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:text="List"
+          android:onClick="List"
           />
       <Button
           android:layout_width="wrap_content"
           android:layout_height="wrap_content"
           android:text="Modify"
+          android:onClick="modifyProf"
           />
 
 
