@@ -210,7 +210,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-            textField.setText(colorsArray.getJSONObject(colorsArray.length()-1).toString());
+            textField.setText(colorsArray.toString());
 
 
         } catch (JSONException e) {

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NiceJSONApp.iml" filepath="$PROJECT_DIR$/.idea/NiceJSONApp.iml" />
-      <module fileurl="file://C:\Users\korha\AndroidStudioProjects\NiceJSONApp\VeryNiceJSONApp.iml" filepath="C:\Users\korha\AndroidStudioProjects\NiceJSONApp\VeryNiceJSONApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VeryNiceJSONApp.iml" filepath="$PROJECT_DIR$/VeryNiceJSONApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\korha\AndroidStudioProjects\NiceJSONApp\app\app.iml" filepath="C:\Users\korha\AndroidStudioProjects\NiceJSONApp\app\app.iml" />
     </modules>
   </component>
 </project>
